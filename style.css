@@ -18,7 +18,7 @@ html, body , .container{
 .clock{
     width: 400px;
     height: 400px;
-    background: url(/images/clock_face.png);
+    background: url(./images/clock_face.png);
 }
 .clock::after{
     position: absolute;
