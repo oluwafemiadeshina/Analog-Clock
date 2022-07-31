@@ -2,6 +2,7 @@ let hour_hand = document.getElementById('hour_hand');
 let minute_hand = document.getElementById('minute_hand');
 let second_hand = document.getElementById('second_hand');
 
+document.getElementById('clock').style.background = 'url("/images/clock_face.png")';
 
 function initClock(){
     //Variable declaration
